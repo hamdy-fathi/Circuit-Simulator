@@ -1,0 +1,42 @@
+﻿  Scanning sources for module dependencies...
+  mfLinkedList.h
+  Compiling...
+  mfLinkedList.h
+  Core.cpp
+  ui.cc
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(154,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(154,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(155,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(155,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(354,16): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(354,16): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(355,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(375,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(375,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(379,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(379,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(386,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(386,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(416,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(416,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(417,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(417,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(423,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(429,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(429,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(428,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(428,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(523,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\ui\ui.cc(237,1): warning C4715: 'CircuitGui::getCoord': not all control paths return a value
+  Circuit_Simulator.vcxproj -> C:\Users\Hamdy\Downloads\ImGui-Loader-Base-master\x64\Debug\Circuit_Simulator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

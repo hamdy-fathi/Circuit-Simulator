@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Circuit_.82212CF7\\x64\\Debug\\mfLinkedList.h.obj",
+            "outputs": [
+                "C:\\Users\\Hamdy\\Downloads\\ImGui-Loader-Base-master\\Circuit_.82212CF7\\x64\\Debug\\vc143.pdb",
+                "Circuit_.82212CF7\\x64\\Debug\\",
+                "C:\\Users\\Hamdy\\Downloads\\ImGui-Loader-Base-master\\Circuit_.82212CF7\\x64\\Debug\\mfLinkedList.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Core\\mfLinkedList.h",
+                    "source-path": "c:\\users\\hamdy\\downloads\\imgui-loader-base-master\\core\\mflinkedlist.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
