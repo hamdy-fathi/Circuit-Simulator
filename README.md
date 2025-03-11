@@ -113,16 +113,16 @@ git clone https://github.com/hamdy-cufe-eng/Circuit-Simulator.git
     <sub><b>Hamdy Ahmed</b></sub></a>
     </td>
     <td align="center">
-    <a href="https://github.com/Karim-Mohamed-Elsayed" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/183163245?v=4" width="100px;" alt="Karim Mohamed"/>
+    <a href="https://github.com/maryam-refaatt" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/189624978?v=4" width="100px;" alt="Maryam Refaat"/>
     <br />
-    <sub><b>Karim Mohamed</b></sub></a>
+    <sub><b>Maryam Refaat</b></sub></a>
     </td>
      <td align="center">
-    <a href="https://github.com/David-Amir-18" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/183446535?v=4" width="100px;" alt="David Amir"/>
+    <a href="https://github.com/nancyashraff" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/180946559?v=4" width="100px;" alt="Nancy Ashraf"/>
     <br />
-    <sub><b>David Amir</b></sub></a>
+    <sub><b>Nancy Ashraf</b></sub></a>
     </td>
     
   </tr>
