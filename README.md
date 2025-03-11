@@ -44,7 +44,7 @@
 
 ## About
 
- Advanced Dicom Viewer with multiple features, 
+ Advanced Circuit Simulator with multiple features, 
  Simplified interface for viewing/displaying data .
 
 ## 💻 Built Using <a name = "tech"></a>
@@ -91,15 +91,15 @@ git clone https://github.com/hamdy-cufe-eng/Circuit-Simulator.git
 ## 📷 Screenshots <a name = "screenshots" ></a>
 
 <div name="Screenshots" align="center">
-   <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
    <hr>
-    <img width=60% src="Screenshots/Screenshot_3.png" alt="logo">
+    <img width=60% src="Screenshots/Screenshot_2.png" alt="logo">
     <hr>
   
-   <img width=60% src="Screenshots/Screenshot_2.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_3.png" alt="logo">
    <hr>
   
-   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
+   <img width=60% src="Screenshots/Screenshot_4.png" alt="logo">
    <hr>
 </div>
 
