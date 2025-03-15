@@ -113,7 +113,7 @@ git clone https://github.com/hamdy-cufe-eng/Circuit-Simulator.git
     <sub><b>Hamdy Ahmed</b></sub></a>
     </td>
     <td align="center">
-    <a href="https://github.com/maryam-refaatt" target="_black">
+    <a href="https://github.com/maryam-refaat" target="_black">
     <img src="https://avatars.githubusercontent.com/u/189624978?v=4" width="100px;" alt="Maryam Refaat"/>
     <br />
     <sub><b>Maryam Refaat</b></sub></a>
